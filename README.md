@@ -10,10 +10,13 @@ Ce dépôt ne contient que les versions publiées de l’application, pour Windo
 
 **[Dernière version](../../releases/latest)** : choisir le fichier qui correspond à son système.
 
+Pour savoir quelle puce équipe son Mac : menu Pomme › *À propos de ce Mac*, ligne *Puce* (Apple M1, M2…) ou *Processeur* (Intel).
+
 | Système | Fichier |
 |---|---|
 | Windows 10 et 11 (64 bits) | `Intendance-…-Windows.exe` (installateur) |
-| macOS (Apple Silicon) | `Intendance-…-macOS.dmg` |
+| macOS 14 ou plus récent, Mac Apple Silicon (M1, M2…) | `Intendance-…-macOS-AppleSilicon.dmg` |
+| macOS 14 ou plus récent, Mac Intel | `Intendance-…-macOS-Intel.dmg` |
 | Linux (64 bits) | `Intendance-…-x86_64.AppImage` |
 
 Au premier lancement, la bibliothèque (séjours, recettes, ingrédients) est créée dans *Documents › Intendance*, avec 25 recettes et 83 ingrédients de départ. Son emplacement se change dans *Réglages › Stockage*, par exemple pour la placer dans un dossier synchronisé.
